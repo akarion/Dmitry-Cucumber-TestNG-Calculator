@@ -14,7 +14,7 @@ Calculator-test-runner --run unittests
 # Run BDD scenarios
 Calculator-test-runner --run scenarios
 
-You could also specify a folder for test report for both unit and cucumber tests by providing an argument like below:
+By default the reports will be posted into "Reports" folder in the project. You could also specify a folder for test report for both unit and cucumber tests by providing an argument like below:
 
 Calculator-test-runner --run unittests --reports-dir unit-test-reports
 
