@@ -16,3 +16,5 @@ Calculator-test-runner --run scenarios
 You could also specify a folder for test report for both unit and cucumber tests by providing an argument like below:
 
 Calculator-test-runner --run unittests --reports-dir unit-test-reports
+
+Also feel free to check build.gradle.kts for some underlying stuff
