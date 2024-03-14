@@ -1,10 +1,11 @@
-Heeellloo
+Hello
 
 This is a simple project to show TestNG and Cucumber tests for SimpleCalculator class. Just for practice and future reference.
 Written in Kotlin.
 
 Tests are in /src/test/kotlin
 
+# Test runner in Python
 There is also Calculator-test-runner.py in root project directory. This script will take at least one argument and optionally a second one.
 Usage:
 
