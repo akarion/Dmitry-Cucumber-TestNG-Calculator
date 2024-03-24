@@ -5,13 +5,13 @@ Written in Kotlin.
 
 Tests are in /src/test/kotlin
 
-# Test runner in Python
+## Test runner in Python
 There is also Calculator-test-runner.py in root project directory. This script will take at least one argument and optionally a second one.
 Usage:
 
-# Run unit tests
+### Run unit tests
 Calculator-test-runner --run unittests
-# Run BDD scenarios
+### Run BDD scenarios
 Calculator-test-runner --run scenarios
 
 By default the reports will be posted into "Reports" folder in the project. You could also specify a folder for test report for both unit and cucumber tests by providing an argument like below:
